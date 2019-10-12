@@ -18,7 +18,12 @@ people:
       url: #
     - title: linkedin
       url: https://www.linkedin.com/in/paola-mart%C3%ADnez/
-
+- name: Jesus Gazol
+  pic: 2
+  position: Lead data analyst
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jgazol/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -31,7 +36,7 @@ social:
   - title: instagram
     url: http://github.com/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/metrics-co
 
 # Postal address (add as many lines as necessary)
 address:
