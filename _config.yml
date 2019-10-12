@@ -3,21 +3,21 @@ baseurl: /
 
 # Site settings
 title: Metrics & Co
-email: martinez.perez.paola@gmail.com
+email: paola@metricsandco.no
 description:  >-
-  "This is a placeholder for Metrics and Co website. Your market research company in Bergen, Norway."
-
+  Metrics and Co is specialised in data analysis for online marketing, based in Bergen, Norway.
+  We measure and improve campaigns in social networks. 
 
 # Team names, titles and social links
 people:
 - name: Paola Martinez Perez
   pic: 1
-  position: Lead
+  position: Lead social media analyst
   social:
     - title: twitter
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/paola-mart%C3%ADnez/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -25,6 +25,10 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: linkedin
+    url: http://github.com/jekyll
+  - title: facebook
+    url: http://github.com/jekyll
+  - title: instagram
     url: http://github.com/jekyll
   - title: github
     url: http://github.com/jekyll
