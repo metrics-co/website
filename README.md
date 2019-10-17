@@ -1,30 +1,8 @@
-Agency Jekyll theme
+Metrics and Co website
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+This is the code of Metrics and Co, a Bergen (Norway) based company speciallised in data analysis focused in social networks.
 
 
-# Demo
+Visit our site at: [www.metricsandco.no](https://www.metricsandco.no)
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)

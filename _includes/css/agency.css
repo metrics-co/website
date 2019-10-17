@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -285,7 +285,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
@@ -308,7 +308,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
+        font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
